@@ -1,0 +1,12 @@
+body{
+	background-color: silver;
+}
+img {
+	width: 200px;
+}
+img.logo {
+	width: 75px;
+}
+img:hover {
+	opacity: 65%;
+}
